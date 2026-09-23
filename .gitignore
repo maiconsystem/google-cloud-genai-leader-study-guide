@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local notes — keep your own scratch work out of the repo
+notes-local/
+*.local.md
+
+# Course material and copyrighted PDFs must never be committed.
+# Transcripts, slide decks and Google's exam guide belong to their owners.
+*.pdf
+*.pptx
+*.docx
+*.mp4
+*.vtt
+*.srt
